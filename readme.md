@@ -6,9 +6,7 @@ Inspiré du jeu "Jump King", "Boom King" est un jeu de plateforme 2D en solo où
 ## Table des Matières
 1. [Installation](#installation)
 2. [Utilisation](#utilisation)
-3. [Contribution](#contribution)
-4. [Licence](#licence)
-5. [Crédits](#crédits)
+3. [Crédits](#crédits)
 
 ## Installation
 - Assurez-vous d'avoir installé [Unity](https://unity.com/)
