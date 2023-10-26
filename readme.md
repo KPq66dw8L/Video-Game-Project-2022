@@ -19,13 +19,13 @@ git clone https://github.com/KPq66dw8L/Video-Game-Project-2022.git
 Lancez le jeu depuis l'éditeur Unity ou construisez-le pour votre plateforme cible.
 
 ## Mécanismes à Implementer
-- [x] Modéliser la map verticale 
-- [x] Modéliser le personnage
-- [x] Gérer les collisions
-- [x] Modéliser les bombes
-- [x] Gérer le saut lié à l'explosion
-- [x] Ajouter un menu avec le nom du jeu et un bouton "jouer"
-- [x] Ajouter des effets audio pour les explosions et les collisions (à la Doom si possible)
+- :heavy_check_mark: Modéliser la map verticale 
+- :heavy_check_mark: Modéliser le personnage
+- :heavy_check_mark: Gérer les collisions
+- :heavy_check_mark: Modéliser les bombes
+- :heavy_check_mark: Gérer le saut lié à l'explosion
+- :heavy_check_mark: Ajouter un menu avec le nom du jeu et un bouton "jouer"
+- :heavy_check_mark: Ajouter des effets audio pour les explosions et les collisions (à la Doom si possible)
 
 ## Crédits
 HERBAUX Julien
